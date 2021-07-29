@@ -22,7 +22,7 @@ module Eth
     end
 
     def replayable_chain_id
-      27
+      37
     end
 
     def chain_id
